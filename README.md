@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Thank you for visiting my profile!
+
+My name is Mark, and I am a professional software engineer. I have primarily worked in the backend and full-stack spaces, having experience in web application development and cloud infrastructure development.
